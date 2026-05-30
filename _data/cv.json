@@ -4,7 +4,7 @@
     "email": "wangsm204@gmail.com",
     "phone": "",
     "website": "https://shimingzz.github.io/academicpages.github.io",
-    "summary": "Computer Science PhD candidate at National Yang Ming Chiao Tung University working on graph neural networks, multimodal MRI, dementia prediction, and computational neuroimaging.",
+    "summary": "Computer Science PhD candidate at National Yang Ming Chiao Tung University working on medical imaging, quantitative MRI, AI, computational neuroimaging, and scientific computing.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -144,7 +144,7 @@
   "interests": [
     {
       "name": "Research",
-      "keywords": ["Graph Neural Networks", "Dementia Prediction", "Multimodal MRI", "Diffusion MRI", "Brain Network Analysis"]
+      "keywords": ["Medical Imaging", "Quantitative MRI", "MRI Physics", "Medical Signal Processing", "Artificial Intelligence", "Computational Imaging", "Brain Networks", "Scientific Computing"]
     }
   ],
   "references": [],
@@ -169,6 +169,34 @@
       "releaseDate": "2019-11-01",
       "website": "",
       "summary": "Longitudinal fixel-based analysis of white matter alterations in Parkinson's disease."
+    },
+    {
+      "name": "Graph neural networks for generalized morphology-derived similarity networks: taxonomy, validation, and translational risk",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2026-05-27",
+      "website": "",
+      "summary": "Status: manuscript drafted."
+    },
+    {
+      "name": "Multimodal gray and white matter MRI phenotypes of three-year dementia conversion in mild cognitive impairment",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2026-05-27",
+      "website": "",
+      "summary": "Status: preliminary results complete."
+    },
+    {
+      "name": "Microstructure-enriched morphometric similarity networks reveal cortical network remodeling associated with near-term dementia conversion",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2026-05-27",
+      "website": "",
+      "summary": "Status: preliminary results complete."
+    },
+    {
+      "name": "Domain-aware graph learning for MCI-to-dementia conversion across ADNI and local morphometric similarity networks",
+      "publisher": "Manuscript in preparation",
+      "releaseDate": "2026-05-27",
+      "website": "",
+      "summary": "Status: feasibility results complete."
     }
   ],
   "presentations": [

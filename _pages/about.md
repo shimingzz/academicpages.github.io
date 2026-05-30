@@ -7,27 +7,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science PhD candidate at National Yang Ming Chiao Tung University (NYCU), working at the intersection of machine learning, multimodal MRI, and computational neuroimaging.
+I am a Computer Science PhD candidate at National Yang Ming Chiao Tung University (NYCU), working across medical imaging, quantitative MRI, artificial intelligence, and computational neuroimaging.
 
-My current research focuses on graph neural networks, transfer learning, and brain network modeling for predicting conversion from mild cognitive impairment to dementia. I build end-to-end MRI pipelines that turn large neuroimaging datasets into interpretable graph and machine learning features.
+My current dissertation uses multimodal MRI, diffusion microstructure, brain network modeling, and graph learning to study near-term dementia conversion in mild cognitive impairment. More broadly, I am interested in how MRI physics, medical signal processing, computational imaging, and modern AI can turn complex imaging data into reliable biological and clinical information.
 
-My background spans biomedical imaging, diffusion MRI, deep learning, graph-based analysis, information retrieval, and scientific data engineering. I enjoy building reproducible research software that connects clinical questions, imaging biomarkers, and modern AI methods.
+My background spans biomedical imaging, medical physics, diffusion MRI, quantitative image analysis, deep learning, graph-based analysis, information retrieval, and scientific data engineering. I enjoy building reproducible research software that connects imaging signals, computational models, and clinically meaningful questions.
 
 Research Interests
 ======
 
-- Graph neural networks for neuroimaging and dementia prediction
-- Transfer learning and cross-dataset generalization in medical AI
-- Multiparametric morphological similarity networks
-- Diffusion MRI, white matter microstructure, and brain aging
-- Reproducible scientific pipelines for large-scale imaging data
+- Medical imaging and quantitative MRI, including MR signal modeling, image formation, reconstruction, and acquisition-aware analysis
+- MRI physics, medical physics, diffusion MRI, relaxometry, microstructure modeling, and biomedical signal/image processing
+- AI for medical imaging across the pipeline: reconstruction, segmentation, representation learning, prognosis, uncertainty, and interpretability
+- Computational imaging, inverse problems, optimization, statistical inference, and reproducible scientific computing
+- Brain networks and connectomics, including morphometric and microstructure-enriched similarity networks as one research direction
+- Clinical translation of imaging biomarkers for neurological disease, aging, dementia, and precision medicine
 
 Selected Work
 ======
 
-- Built a PyTorch-based graph neural network framework for MCI-to-dementia conversion prediction using pretraining on ADNI and fine-tuning on the ILAS cohort.
-- Developed graph-construction and topological analysis pipelines for multiparametric MRI-derived brain networks.
-- Processed more than 500 subjects and approximately 3 TB of multimodal MRI data using Python, Nipype, and HPC workflows.
+- Built computational pipelines for multimodal MRI, diffusion MRI, cortical morphometry, and brain-network analysis.
+- Developed graph-construction and topological analysis workflows for MRI-derived brain networks.
+- Designed PyTorch-based graph learning experiments for MCI-to-dementia conversion using public and local cohorts.
+- Processed more than 500 subjects and approximately 3 TB of imaging data using Python, Nipype, and HPC workflows.
 - Published work in *NeuroImage: Clinical* and presented at ISMRM, OHBM, AAIC, and related conferences.
 
 Links

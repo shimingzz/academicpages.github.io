@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Shi-Ming Wang"
 title_separator          : "-"
 name                     : &name "Shi-Ming Wang"
-description              : &description "CS PhD candidate working on graph neural networks, multimodal MRI, and computational neuroimaging."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "CS PhD candidate working on medical imaging, quantitative MRI, AI, and computational neuroimaging."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://shimingzz.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/academicpages.github.io" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "https://avatars.githubusercontent.com/u/77295537?v=4"
   name             : "Shi-Ming Wang"
   pronouns         : # example: "she/her"  
-  bio              : "CS PhD candidate at NYCU. I build machine learning systems for multimodal MRI, dementia prediction, and computational neuroimaging."
+  bio              : "CS PhD candidate at NYCU. I work on medical imaging, quantitative MRI, AI, and computational neuroimaging."
   location         : "Taipei / Hsinchu, Taiwan"
   employer         : "National Yang Ming Chiao Tung University"
   uri              : "https://shimingzz.github.io/academicpages.github.io"
@@ -88,6 +88,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  works_in_progress:
+    title: 'Manuscripts in Progress'
   conferences:
     title: 'Conference Papers'
 
