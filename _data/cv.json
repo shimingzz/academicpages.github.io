@@ -1,152 +1,205 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Shi-Ming Wang",
+    "email": "wangsm204@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://shimingzz.github.io/academicpages.github.io",
+    "summary": "Computer Science PhD candidate at National Yang Ming Chiao Tung University working on graph neural networks, multimodal MRI, dementia prediction, and computational neuroimaging.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Taipei / Hsinchu",
+      "countryCode": "",
+      "region": "Taiwan"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "shimingzz",
+        "url": "https://github.com/shimingzz"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "shi-ming-wang-a42610188",
+        "url": "https://www.linkedin.com/in/shi-ming-wang-a42610188/"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Brain and Cognitive Sciences Lab, National Yang Ming Chiao Tung University",
+      "position": "PhD researcher / research assistant",
+      "website": "",
+      "startDate": "2020-05-01",
+      "endDate": "",
+      "summary": "Built graph neural network models and multimodal MRI pipelines for dementia prediction and brain network analysis.",
+      "highlights": [
+        "Designed GCN, GAT, and GraphSAGE models in PyTorch for MCI-to-dementia conversion prediction.",
+        "Built morphological similarity networks across 100+ brain regions using multimodal MRI features.",
+        "Processed more than 500 subjects and approximately 3 TB of imaging data using Python, Nipype, and HPC workflows."
+      ]
+    },
+    {
+      "company": "UCL Centre for Medical Image Computing",
+      "position": "Research collaborator",
+      "website": "",
+      "startDate": "2020-09-01",
+      "endDate": "2022-01-31",
+      "summary": "Developed longitudinal diffusion MRI analysis workflows for subacute and chronic stroke cohorts.",
+      "highlights": [
+        "Applied advanced microstructural MRI models to longitudinal stroke data.",
+        "Presented the work as an oral scientific session at ISMRM 2022."
+      ]
+    },
+    {
+      "company": "Laboratory of Magnetic Resonance Research, Chang Gung University",
+      "position": "Researcher",
+      "website": "",
+      "startDate": "2017-08-01",
+      "endDate": "2019-08-31",
+      "summary": "Worked on Parkinson's disease neuroimaging using fixel-based analysis and deep learning.",
+      "highlights": [
+        "Co-developed a CNN-based classifier using diffusion MRI features.",
+        "Contributed to a first-author NeuroImage: Clinical publication on longitudinal fixel-based analysis."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "National Yang Ming Chiao Tung University",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2023-09-01",
+      "endDate": "2026-12-31",
+      "gpa": null,
+      "courses": [
+        "Algorithms",
+        "Data Mining",
+        "Information Retrieval",
+        "Deep Learning",
+        "Brain-Computer Interface"
+      ]
+    },
+    {
+      "institution": "Chang Gung University",
+      "area": "Medical Imaging and Radiological Science",
+      "studyType": "MSc",
+      "startDate": "2017-09-01",
+      "endDate": "2019-08-31",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "China Medical University",
+      "area": "Biomedical Imaging and Radiological Science",
+      "studyType": "BSc",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-30",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "C", "C#", "MATLAB"]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "",
+      "keywords": ["PyTorch", "Graph Neural Networks", "CNNs", "Transfer Learning", "Model Interpretability"]
+    },
+    {
+      "name": "Neuroimaging",
+      "level": "",
+      "keywords": ["FSL", "SPM", "MRtrix", "Nipype", "DTI-TK", "DTIstudio", "NiftyReg"]
+    },
+    {
+      "name": "Data and Infrastructure",
+      "level": "",
+      "keywords": ["NumPy", "pandas", "scikit-learn", "XGBoost", "R", "Git", "Linux", "Bash", "HPC"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "TOEFL iBT 102"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Native"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research",
+      "keywords": ["Graph Neural Networks", "Dementia Prediction", "Multimodal MRI", "Diffusion MRI", "Brain Network Analysis"]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "White matter microstructural integrity mediates associations between prenatal endocrine-disrupting chemicals exposure and intelligence in adolescents",
+      "publisher": "NeuroImage: Clinical",
+      "releaseDate": "2025-02-01",
+      "website": "",
+      "summary": "First-author study on white matter microstructure, prenatal exposure, and adolescent intelligence."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Peak width of skeletonized mean diffusivity might be a better neuroimage marker for cognitive functions in CADASIL",
+      "publisher": "Alzheimer's & Dementia",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "Study of diffusion MRI markers and cognitive function in NOTCH3 variant carriers and CADASIL."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "A longitudinal fixel-based analysis of white matter alterations in patients with Parkinson's disease",
+      "publisher": "NeuroImage: Clinical",
+      "releaseDate": "2019-11-01",
+      "website": "",
+      "summary": "Longitudinal fixel-based analysis of white matter alterations in Parkinson's disease."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Brain microstructural changes in stroke patients at subacute/chronic stages by means of advanced diffusion MRI",
+      "event": "ISMRM",
+      "date": "2022-05-01",
+      "location": "London, United Kingdom",
+      "description": "Oral scientific session."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Learning-based approach for accelerated IVIM imaging in the placenta",
+      "event": "ISMRM",
+      "date": "2020-08-01",
+      "location": "Virtual conference",
+      "description": "Oral scientific session."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Teaching Assistant",
+      "institution": "Chang Gung University, Department of Medical Imaging and Radiological Science",
+      "date": "2018-02-01",
+      "role": "Teaching assistant",
+      "description": "Teaching assistantship from February 2018 to January 2019."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Dementia Conversion Prediction with Graph Neural Networks",
       "category": "portfolio",
       "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "url": "https://shimingzz.github.io/academicpages.github.io/portfolio/mci-dementia-gnn",
+      "description": "GNN-based MCI-to-dementia conversion prediction using ADNI pretraining and ILAS fine-tuning."
+    },
+    {
+      "name": "Multiparametric Morphological Similarity Networks",
+      "category": "portfolio",
+      "date": "",
+      "url": "https://shimingzz.github.io/academicpages.github.io/portfolio/morphological-similarity-networks",
+      "description": "Graph construction and topological analysis from multimodal MRI features."
     }
   ]
 }

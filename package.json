@@ -1,10 +1,10 @@
 {
-  "name": "academic-pages",
+  "name": "shimingwang-academic-website",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Shi-Ming Wang academic website build scripts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/shimingzz/academicpages.github.io"
   },
   "keywords": [
     "jekyll",
@@ -17,9 +17,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/academicpages/academicpages.github.io/issues"
+    "url": "https://github.com/shimingzz/academicpages.github.io/issues"
   },
-  "homepage": "https://github.com/academicpages/academicpages.github.io",
+  "homepage": "https://shimingzz.github.io/academicpages.github.io",
   "engines": {
     "node": ">= 0.10.0"
   },
