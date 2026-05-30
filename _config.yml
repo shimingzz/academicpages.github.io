@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com.tw/citations?user=1wNfk2EAAAAJ&hl=zh-TW&authuser=1"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            :
+  orcid            : "https://orcid.org/0009-0009-1175-1671"
   semantic         : # URL
   ssrn             : # URL
   pubmed           :
@@ -153,6 +153,8 @@ social:
   links: # An array of links to social media profiles
     - "https://github.com/shimingzz"
     - "https://www.linkedin.com/in/shi-ming-wang-a42610188/"
+    - "https://orcid.org/0009-0009-1175-1671"
+    - "https://scholar.google.com.tw/citations?user=1wNfk2EAAAAJ&hl=zh-TW&authuser=1"
 
 
 # Analytics

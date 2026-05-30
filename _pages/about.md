@@ -36,3 +36,5 @@ Links
 - [Download CV]({{ site.baseurl }}/files/Shi-Ming-Wang-CV.pdf)
 - [GitHub](https://github.com/shimingzz)
 - [LinkedIn](https://www.linkedin.com/in/shi-ming-wang-a42610188/)
+- [Google Scholar](https://scholar.google.com.tw/citations?user=1wNfk2EAAAAJ&hl=zh-TW&authuser=1)
+- [ORCID](https://orcid.org/0009-0009-1175-1671)
